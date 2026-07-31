@@ -52,7 +52,7 @@ async def main():
                 "messages": [
                     {
                         "role": "user",
-                        "content": "What is the weather in california. dont use external tools. Use only the get_weather tool"
+                        "content": "What is the weather in california. dont use external tools. Use only the get_weather tool "
                     }
                 ]
             }
