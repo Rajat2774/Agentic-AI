@@ -27,3 +27,4 @@ venv/
 Thumbs.db
 pdf/
 text_files/
+*.pdf
